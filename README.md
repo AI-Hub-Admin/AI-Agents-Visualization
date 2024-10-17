@@ -8,7 +8,7 @@
 
 #### Visualized Output <br>
 
-![Swarm Agents Visualization in ChatGPT style](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_1.jpg)
+![Swarm Agents Visualization in ChatGPT style](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_1.jpg?raw=true)
 
 
 ## 1. Introduction to AI Agents Swarm Framework
@@ -53,14 +53,14 @@ To visualize the logs, you can use copy and paste the json files to the online w
 And the complete AI Agents running process is displayed clearly as:
 
 
-![Swarm Agents Visulization in ChatGPT format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_1.jpg)
+![Swarm Agents Visulization in ChatGPT format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_1.jpg?raw=true)
 
 
 
 You can also change to the whatsapp style as displayed:
 
 
-![Swarm Agents Visulization in Whatsapp format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_2.jpg)
+![Swarm Agents Visulization in Whatsapp format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_2.jpg?raw=true)
 
 
 The generated messages are from swarm package by calling the swarm package multiple OpenAI API multiple times.
@@ -175,3 +175,4 @@ The complete input json format is
 [OpenAI Cookbook Orchestrating Agents](https://cookbook.openai.com/examples/orchestrating_agents) <br>
 [Dialogue Agent Visualization Tools for AI systems](http://www.deepnlp.org/blog/dialogue-agent-multimodal-visualization-tools-for-ai-systems) <br>
 [AI Agents Visualization Reviews Asynchronous Multi Agent Simulation](http://www.deepnlp.org/blog/ai-agent-visualization-review-asynchronous-multi-agent-simulation) <br>
+
