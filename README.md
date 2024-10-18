@@ -52,15 +52,16 @@ To visualize the logs, you can use copy and paste the json files to the online w
 
 And the complete AI Agents running process is displayed clearly as:
 
-
+#### ChatGPT Style
 ![Swarm Agents Visulization in ChatGPT format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_1.jpg?raw=true)
 
-
-
-You can also change to the whatsapp style as displayed:
-
-
+#### Whatsapp Style
 ![Swarm Agents Visulization in Whatsapp format](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/swarm_dialogue_visualization_2.jpg?raw=true)
+
+#### Wechat Style
+![Swarm Agents Visulization in Wechat template](https://github.com/AI-Hub-Admin/AI-Agents-Visualization/blob/main/static_files/wechat_dialogue_2.jpg?raw=true)
+
+
 
 
 The generated messages are from swarm package by calling the swarm package multiple OpenAI API multiple times.
